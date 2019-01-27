@@ -14,6 +14,9 @@
 		C77052C921FE58CC00911086 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C77052C721FE58CC00911086 /* LaunchScreen.storyboard */; };
 		C77052D421FE58CC00911086 /* DiceRollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77052D321FE58CC00911086 /* DiceRollTests.swift */; };
 		C77052DF21FE58CC00911086 /* DiceRollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77052DE21FE58CC00911086 /* DiceRollUITests.swift */; };
+		C77052ED21FE597E00911086 /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = C77052EC21FE597E00911086 /* American Captain.otf */; };
+		C77052EE21FE597E00911086 /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = C77052EC21FE597E00911086 /* American Captain.otf */; };
+		C77052EF21FE597E00911086 /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = C77052EC21FE597E00911086 /* American Captain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		C77052DA21FE58CC00911086 /* DiceRollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiceRollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C77052DE21FE58CC00911086 /* DiceRollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceRollUITests.swift; sourceTree = "<group>"; };
 		C77052E021FE58CC00911086 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C77052EC21FE597E00911086 /* American Captain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "American Captain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,7 @@
 				C77052C221FE58C800911086 /* Main.storyboard */,
 				C77052C521FE58CC00911086 /* Assets.xcassets */,
 				C77052C721FE58CC00911086 /* LaunchScreen.storyboard */,
+				C77052EC21FE597E00911086 /* American Captain.otf */,
 				C77052CA21FE58CC00911086 /* Info.plist */,
 			);
 			path = DiceRoll;
@@ -232,6 +237,7 @@
 				C77052C921FE58CC00911086 /* LaunchScreen.storyboard in Resources */,
 				C77052C621FE58CC00911086 /* Assets.xcassets in Resources */,
 				C77052C421FE58C800911086 /* Main.storyboard in Resources */,
+				C77052ED21FE597E00911086 /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C77052EE21FE597E00911086 /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C77052EF21FE597E00911086 /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
